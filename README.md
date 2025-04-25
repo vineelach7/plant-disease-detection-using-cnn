@@ -40,5 +40,3 @@ This project uses a CNN model to detect and classify plant diseases based on lea
 ## 🤝 Contribution
 Feel free to fork and improve!
 
-## 📸 Sample Output
-*(Add screenshots of predictions if possible)*
